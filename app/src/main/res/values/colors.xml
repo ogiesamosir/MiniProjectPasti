@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fbbedf</color>
+    <color name="colorPrimaryDark">#fca3cc</color>
+    <color name="colorAccent">#bce6eb</color>
+    <color name="colorText">#493323</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorPrimaryFaded">#557174</color>
+    <color name="colorPrimaryFaded1">#487e95</color>
+    <color name="colorGray">#F3F2F2</color>
+    <color name="colorInputText">#115672</color>
+    <color name="colorHeader">#d6b0b1</color>
+    <color name="colorDanger">#ff577f</color>
+    <color name="lightGreen">#96bb7c</color>
+    <color name="lightGray">#cfdac8</color>
+    <color name="list_divider">#d9d9d9</color>
+</resources>
